@@ -13,7 +13,7 @@ void Temperature() {
     double fahrenheit;
 
     // input
-    std::cout << "This program converts ° celsius to ° fahrenheit." << std::endl;
+    std::cout << "This program converts °C to °F." << std::endl;
     std::cout << "Enter any degrees in celsius: ";
     std::cin >> strCelsius;
 
